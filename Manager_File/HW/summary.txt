@@ -1,0 +1,1 @@
+A.txt:13/nB.txt:40/nC.txt:49/nD.txt:53/nE.txt:78/nF.txt:55/nG.txt:31/nH.txt:43/nI.txt:64/nJ.txt:47/nK.txt:71/nL.txt:68/nM.txt:71/nN.txt:31/nO.txt:69/nP.txt:56/nQ.txt:54/nR.txt:11/nS.txt:19/nT.txt:8/nU.txt:51/nV.txt:30/nW.txt:96/nX.txt:56/nY.txt:66/nZ.txt:52/n
